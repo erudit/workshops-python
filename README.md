@@ -23,6 +23,11 @@
 * **3.5**
 * 2.7
 
+## Technical setup
+
+* See [setup file][setup]
+
 ---
 
 [basic]: ./basic/index.md
+[setup]: ./setup.md

@@ -12,14 +12,16 @@ Installez la distribution Python "Anaconda", de Continuum analytics, en suivant 
 * attention, téléchargement d'environ 300 Mo
 * si à l'installation Anaconda vous demande si vous voulez qu'il soit votre Python par défaut, dites "oui", ex.:
 
-      """
-      Do you wish the installer to prepend the Anaconda3 install location
-      to PATH in your /home/giotta/.bashrc ? [yes|no]
-      """
+        """
+        Do you wish the installer to prepend the Anaconda3 install location
+        to PATH in your /home/giotta/.bashrc ? [yes|no]
+        """
+* fermez le terminal utilisé pour l'installation
+
 
 ## Tester l'installation
 
-1. lancez un terminal
+1. lancez un nouveau terminal
 1. tapez "ipython" + enter
 
         $ ipython
